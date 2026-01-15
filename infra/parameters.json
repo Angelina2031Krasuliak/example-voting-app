@@ -1,0 +1,42 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "virtualMachines_vm_Krasuliak_name": {
+            "value": null
+        },
+        "vaults_rsv_Krasuliak_name": {
+            "value": null
+        },
+        "sshPublicKeys_vm_Krasuliak_key_name": {
+            "value": null
+        },
+        "virtualNetworks_vnet_Krasuliak_name": {
+            "value": null
+        },
+        "publicIPAddresses_vm_Krasuliak_ip_name": {
+            "value": null
+        },
+        "networkInterfaces_vm_krasuliak598_z1_name": {
+            "value": null
+        },
+        "workspaces_law_Krasuliak_name": {
+            "value": null
+        },
+        "networkSecurityGroups_vm_Krasuliak_nsg_name": {
+            "value": null
+        },
+        "registries_acrkrasuliak204586_name": {
+            "value": null
+        },
+        "dataCollectionRules_MSVMI_swedencentral_vm_krasuliak_name": {
+            "value": null
+        },
+        "dataCollectionRules_MSVMOtel_swedencentral_vm_krasuliak_name": {
+            "value": null
+        },
+        "accounts_defaultazuremonitorworkspace_sec_externalid": {
+            "value": null
+        }
+    }
+}
